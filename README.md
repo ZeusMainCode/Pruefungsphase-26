@@ -3,7 +3,9 @@
 > Progress tracker für alle Prüfungen und Abgaben im Sommersemester 2026.
 
 ---
-
+**Deadline für Prüfungstermine: 05.06.2026**
+**Prüfungszeitraum: 02.07. - 23.07**
+---
 ## Milestones
 
 | Fach | Details | Fällig | Fortschritt |
@@ -23,3 +25,4 @@
 - [Prüfungsordnung SPO04 SE-B](https://cdn.hs-heilbronn.de/1b6aeff656d0d69e/45e6284a7a24/1b6aeff656d0d69e-e441c1811e69-SPO04_SE-B_Senatsentscheid_2020-05-20_U2.pdf)
 - [Alle offenen Issues](https://github.com/ZeusMainCode/Pruefungsphase-26/issues)
 - [Alle Milestones](https://github.com/ZeusMainCode/Pruefungsphase-26/milestones)
+- [Semesterplan](https://www.hs-heilbronn.de/de/semesterterminplan?gad_source=1&gad_campaignid=22821897551&gbraid=0AAAAADLKAbMkpub_29ev8D6Jjq_qtqZt3&gclid=CjwKCAjw8arQBhB9EiwAfIKdQoY-DhjKx0I60oRFpN8M4-E1fpf0o66Hfjid89s4WbEKAsg3lpeTURoC8pAQAvD_BwE)
