@@ -19,7 +19,7 @@
 ---
 
 ## Dokumente
-
+- [Kanban-Board](https://github.com/users/ZeusMainCode/projects/4/views/2)
 - [Prüfungsordnung SPO04 SE-B](https://cdn.hs-heilbronn.de/1b6aeff656d0d69e/45e6284a7a24/1b6aeff656d0d69e-e441c1811e69-SPO04_SE-B_Senatsentscheid_2020-05-20_U2.pdf)
 - [Alle offenen Issues](https://github.com/ZeusMainCode/Pruefungsphase-26/issues)
 - [Alle Milestones](https://github.com/ZeusMainCode/Pruefungsphase-26/milestones)
