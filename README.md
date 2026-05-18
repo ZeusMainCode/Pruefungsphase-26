@@ -6,15 +6,15 @@
 
 ## Milestones
 
-| Fach | Details | Fällig |
-|------|---------|--------|
-| [Theoretische Informatik](https://github.com/ZeusMainCode/Pruefungsphase-26/milestone/1) | Prüfung: 90 min | 30.06.2026 |
-| [DevOps](https://github.com/ZeusMainCode/Pruefungsphase-26/milestone/2) | 1–2 Tests + Aufgaben · Tests: 30% der Note | 30.06.2026 |
-| [Logik und KI](https://github.com/ZeusMainCode/Pruefungsphase-26/milestone/3) | Prüfung: 90 min | 30.06.2026 |
-| [Informationssicherheit](https://github.com/ZeusMainCode/Pruefungsphase-26/milestone/4) | Prüfung: 90 min | — |
-| [LabSWPS](https://github.com/ZeusMainCode/Pruefungsphase-26/milestone/5) | Final Product Delivery | 25.06.2026 |
-| [Dev Tools des SE](https://github.com/ZeusMainCode/Pruefungsphase-26/milestone/6) | Finish Project of last semester | 30.06.2026 |
-| [Kryptographie](https://github.com/ZeusMainCode/Pruefungsphase-26/milestone/7) | Prüfung: 60 min | 30.06.2026 |
+| Fach | Details | Fällig | Issues |
+|------|---------|--------|--------|
+| [Theoretische Informatik](https://github.com/ZeusMainCode/Pruefungsphase-26/milestone/1) | Prüfung: 90 min | 30.06.2026 | ![open issues](https://img.shields.io/github/milestones/open-issues-raw/ZeusMainCode/Pruefungsphase-26/1) |
+| [DevOps](https://github.com/ZeusMainCode/Pruefungsphase-26/milestone/2) | 1–2 Tests + Aufgaben · Tests: 30% der Note | 30.06.2026 | ![open issues](https://img.shields.io/github/milestones/open-issues-raw/ZeusMainCode/Pruefungsphase-26/2) |
+| [Logik und KI](https://github.com/ZeusMainCode/Pruefungsphase-26/milestone/3) | Prüfung: 90 min | 30.06.2026 | ![open issues](https://img.shields.io/github/milestones/open-issues-raw/ZeusMainCode/Pruefungsphase-26/3) |
+| [Informationssicherheit](https://github.com/ZeusMainCode/Pruefungsphase-26/milestone/4) | Prüfung: 90 min | — | ![open issues](https://img.shields.io/github/milestones/open-issues-raw/ZeusMainCode/Pruefungsphase-26/4) |
+| [LabSWPS](https://github.com/ZeusMainCode/Pruefungsphase-26/milestone/5) | Final Product Delivery | 25.06.2026 | ![open issues](https://img.shields.io/github/milestones/open-issues-raw/ZeusMainCode/Pruefungsphase-26/5) |
+| [Dev Tools des SE](https://github.com/ZeusMainCode/Pruefungsphase-26/milestone/6) | Finish Project of last semester | 30.06.2026 | ![open issues](https://img.shields.io/github/milestones/open-issues-raw/ZeusMainCode/Pruefungsphase-26/6) |
+| [Kryptographie](https://github.com/ZeusMainCode/Pruefungsphase-26/milestone/7) | Prüfung: 60 min | 30.06.2026 | ![open issues](https://img.shields.io/github/milestones/open-issues-raw/ZeusMainCode/Pruefungsphase-26/7) |
 
 ---
 
