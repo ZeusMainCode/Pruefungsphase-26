@@ -3,8 +3,11 @@
 > Progress tracker für alle Prüfungen und Abgaben im Sommersemester 2026.
 
 ---
+
 **Deadline für Prüfungstermine: 05.06.2026**
+
 **Prüfungszeitraum: 02.07. - 23.07**
+
 ---
 ## Milestones
 
